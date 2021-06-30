@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+.table {
+	
+	
+	margin-top:10px;
+	margin-left:120px;
+	
+}
+table {
+	border:2px solid black;
+	padding:10px;
+	width:1200px;
+	
+	
+	
+}
+th {
+	border:2px solid black;
+	padding:15px;
+	background-color: #F7CAC9;
+}
+th:hover {
+	background-color: #e4504e;
+}
+td {
+	
+	text-align:center;
+	padding:15px;
+}
+td:hover{
+	background-color:black;
+	color:white;
+}
+.ma {
+	text-align:center;
+}
+a{
+color:#86C232;
+}
+a:hover {
+	color:white;
+}
+input {
+	border:transparent;
+	background-color:#86C232;
+	width:100%;
+	border-radius:10px;
+	padding:5px;
+	cursor:pointer;
+	color:BLACK;
+	
+}
+input:hover {
+	background-color:white ;
+	color:black;
+	transition:0.6s ease;
+}
